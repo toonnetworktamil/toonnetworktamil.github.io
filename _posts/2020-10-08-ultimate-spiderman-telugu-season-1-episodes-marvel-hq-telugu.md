@@ -11,7 +11,7 @@ tdc_dirty_content:
 tdc_icon_fonts:
   - 'a:0:{}'
 post_views_count:
-  - "0"
+  - "1"
 ---
 <div dir="ltr" style="text-align: left;" trbidi="on">
   <div class="separator" style="clear: both; text-align: center;">
